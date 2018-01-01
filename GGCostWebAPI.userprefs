@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{61DC4856-8306-4358-B8F8-20F530D35341}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GGCostWebAPI/Handlers/GoogleDrive.cs">
+    <Files>
+      <File FileName="GGCostWebAPI/Handlers/GoogleDrive.cs" Line="42" Column="16" />
+      <File FileName="GGCostWebAPI/Controllers/ValuesController.cs" Line="18" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shinyc/GGProject/GGCost/GGCostWebAPI/GGCostWebAPI/Handlers/GoogleDrive.cs" relfile="GGCostWebAPI/Handlers/GoogleDrive.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GGCostWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
