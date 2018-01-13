@@ -15,7 +15,7 @@ namespace GGCostWebAPI.Controllers
         public IEnumerable<string> Get()
         {
             GoogleDrive googleDrive = new GoogleDrive();
-            googleDrive.GetFileList();
+            googleDrive.InsertFiles ("e:\\db.sqlite");
             System.Threading.Thread.Sleep(5000);
             return new string[] { "Fender", "Gibson" };
         }
